@@ -20,5 +20,4 @@ After building the image, run the following command to start the container
    ```bash
    
 3. **Verifying the Application**
-4. 
 Open a web browser and navigate to 'http://localhost' to verify the application is running successfully.
