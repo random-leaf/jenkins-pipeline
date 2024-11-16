@@ -13,11 +13,11 @@
    ```bash
 
 2. **Run the Docker Container**
-After building the image, run the following command to start the container
+   After building the image, run the following command to start the container
 
    ```bash
    docker run -d -p 80:80 leafhub
    ```bash
    
 3. **Verifying the Application**
-Open a web browser and navigate to 'http://localhost' to verify the application is running successfully.
+   Open a web browser and navigate to 'http://localhost' to verify the application is running successfully.
