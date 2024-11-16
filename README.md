@@ -20,4 +20,4 @@
    ```bash
    
 3. **Verifying the Application**
-   Open a web browser and navigate to 'http://localhost' to verify the application is running successfully.
+   Open a web browser and navigate to 'http://PublicIP/leaf' to verify the application is running successfully.
