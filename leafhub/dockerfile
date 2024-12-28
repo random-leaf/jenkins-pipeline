@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y maven sudo
 WORKDIR /app
 
 # Setup the git repo
-RUN git clone https://github.com/TestLeafInc/jenkins-pipeline /app
+RUN git clone https://github.com/mohan-balakrishnan/jenkins-pipeline /app
 
 # Change the directory
 WORKDIR /app/leafhub
