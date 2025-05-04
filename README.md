@@ -13,7 +13,7 @@
    ```
 
 2. **Run the Docker Container**
-   After building the image, run the following command to start the container
+   After building the image, run the following command to start the container.
 
    ```bash
    docker run -d -p 80:80 leafhub
